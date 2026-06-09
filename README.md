@@ -1,5 +1,5 @@
 # GeNIe Software Updates
-
+一个自用的对接GeNIe软件画贝叶斯模型的软件
 这是 GeNIe Software 的公开正式版更新仓库。
 
 ## 用途
